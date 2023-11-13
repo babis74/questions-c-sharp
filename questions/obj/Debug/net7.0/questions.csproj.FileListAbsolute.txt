@@ -1,0 +1,15 @@
+/home/babis/Επιφάνεια εργασίας/questions/bin/Debug/net7.0/questions
+/home/babis/Επιφάνεια εργασίας/questions/bin/Debug/net7.0/questions.deps.json
+/home/babis/Επιφάνεια εργασίας/questions/bin/Debug/net7.0/questions.runtimeconfig.json
+/home/babis/Επιφάνεια εργασίας/questions/bin/Debug/net7.0/questions.dll
+/home/babis/Επιφάνεια εργασίας/questions/bin/Debug/net7.0/questions.pdb
+/home/babis/Επιφάνεια εργασίας/questions/obj/Debug/net7.0/questions.csproj.AssemblyReference.cache
+/home/babis/Επιφάνεια εργασίας/questions/obj/Debug/net7.0/questions.GeneratedMSBuildEditorConfig.editorconfig
+/home/babis/Επιφάνεια εργασίας/questions/obj/Debug/net7.0/questions.AssemblyInfoInputs.cache
+/home/babis/Επιφάνεια εργασίας/questions/obj/Debug/net7.0/questions.AssemblyInfo.cs
+/home/babis/Επιφάνεια εργασίας/questions/obj/Debug/net7.0/questions.csproj.CoreCompileInputs.cache
+/home/babis/Επιφάνεια εργασίας/questions/obj/Debug/net7.0/questions.dll
+/home/babis/Επιφάνεια εργασίας/questions/obj/Debug/net7.0/refint/questions.dll
+/home/babis/Επιφάνεια εργασίας/questions/obj/Debug/net7.0/questions.pdb
+/home/babis/Επιφάνεια εργασίας/questions/obj/Debug/net7.0/questions.genruntimeconfig.cache
+/home/babis/Επιφάνεια εργασίας/questions/obj/Debug/net7.0/ref/questions.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XfPfpEVVY7GJkH6OL1jwthsvQhRbRi2V5oa0fR+jg4xS8q+tO55V0T1lcbSVcigAXAs2B2dY4zn9zXisXAaqnw==",
+  "success": true,
+  "projectFilePath": "/home/babis/Επιφάνεια εργασίας/questions/questions.csproj",
+  "expectedPackageFiles": [
+    "/home/babis/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.13/microsoft.aspnetcore.app.ref.7.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
