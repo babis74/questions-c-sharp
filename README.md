@@ -1,4 +1,10 @@
 # questions-c-sharp
+<p align="left">
+  <a href="https://skillicons.dev"><br>
+    <p>made with</p>
+    <img src="https://skillicons.dev/icons?i=c#" />
+  </a>
+</p>
 Εφαρμογή ερωτηματολογίου με c#
 ![questions](https://github.com/babis74/questions-c-sharp/assets/72227584/b1d017f8-0bc5-418e-8f7a-613465d364c6)
 
